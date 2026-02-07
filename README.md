@@ -1,4 +1,3 @@
-# Ohwretchedman-Ohwretchedman
 ## Hi, I'm Joshua 👋
 
 Final-year Computer Science student with a strong interest in cybersecurity, network security, and machine learning for threat detection.
